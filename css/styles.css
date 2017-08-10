@@ -1,7 +1,7 @@
-.answer {
-  display: none;
-}
 
 .col-md-3{
 height: 15vh;
+}
+.hidden {
+display: none;
 }
