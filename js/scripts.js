@@ -1,0 +1,5 @@
+$(".question").on("click",function){
+
+}
+
+<>
